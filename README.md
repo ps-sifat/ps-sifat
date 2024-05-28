@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Sifatul Islam</h1>
 <h3 align="center">I'm a professional MERN Stack Developer.</h3>
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" height="480" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ps-sifat&label=Profile%20views&color=0e75b6&style=flat" alt="ps-sifat" /> </p>
 
