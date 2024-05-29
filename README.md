@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ps-sifat?tab=repositories](https://github.com/ps-sifat?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind , Java script**
 
 - 📫 How to reach me **mdsifatulislam2357@gmail.com**
 
