@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ps-sifat&label=Profile%20views&color=0e75b6&style=flat" alt="ps-sifat" /> </p>
 
-- 🌱 I’m currently learning **MERN stack Development on Creative it institute .🤙**
+- 🌱 I’m currently learning **MERN stack Development on Creative it institute Dhaka, Bangladesh.🤙**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ps-sifat?tab=repositories](https://github.com/ps-sifat?tab=repositories)
 
