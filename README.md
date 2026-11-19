@@ -21,7 +21,7 @@
 - 🎓 B.Sc. in **CSE** student at **University of Asia Pacific** (2024 – present)
 - 🛠️ Trained in **Professional MERN Stack Development** and **Web Design** at **Creative IT Institute**
 - 🚀 I build modern, scalable web apps with **React, Node.js, Express and MongoDB**, plus 3D on the web with **Three.js**
-- 🏆 **President Scout Award** recipient and a regular at university **AI hackathons**
+- 🏆 Regular participant in university **AI hackathons**
 - 📍 Dhaka, Bangladesh
 
 <sub>MY TECH STACK</sub>
@@ -42,49 +42,46 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.etrailglobal.com/"><img src="./assets/projects/etrail-global.jpg" alt="Etrail Global" width="100%"></a>
-      <h3>Etrail Global</h3>
-      <p>My first live project: a live e-commerce marketplace where I worked on the customer-facing frontend.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    <td width="33%" valign="top">
+      <a href="https://www.etrailglobal.com/"><img src="./assets/projects/etrail-global.jpg" alt="Etrail Global" width="100%"></a><br>
+      <b>Etrail Global</b><br>
+      Live e-commerce marketplace (frontend)<br>
+      <code>HTML</code> <code>CSS</code> <code>JS</code><br>
       <a href="https://www.etrailglobal.com/">Live</a> · <a href="https://github.com/debodipto/Etrail_Global">Code</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://hotel-booking-app-2opy.vercel.app/"><img src="./assets/projects/hotel-booking.jpg" alt="Hotel Booking App" width="100%"></a>
-      <h3>Hotel Booking App</h3>
-      <p>A responsive hotel booking web app built from reusable React components with a clean, modern UI.</p>
-      <p><code>React</code> <code>Tailwind</code> <code>JavaScript</code></p>
+    <td width="33%" valign="top">
+      <a href="https://hotel-booking-app-2opy.vercel.app/"><img src="./assets/projects/hotel-booking.jpg" alt="Hotel Booking App" width="100%"></a><br>
+      <b>Hotel Booking App</b><br>
+      Responsive booking UI in React<br>
+      <code>React</code> <code>Tailwind</code><br>
       <a href="https://hotel-booking-app-2opy.vercel.app/">Live</a> · <a href="https://github.com/ps-sifat/Hotel-Booking-App">Code</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://qr-code-generator-lilac-gamma.vercel.app/"><img src="./assets/projects/qr-generator.jpg" alt="QR Code Generator" width="100%"></a>
-      <h3>QR Code Generator</h3>
-      <p>Generate QR codes from text or URLs with live preview, custom colors and size, and one-click PNG download.</p>
-      <p><code>React</code> <code>Vite</code> <code>CSS</code></p>
+    <td width="33%" valign="top">
+      <a href="https://qr-code-generator-lilac-gamma.vercel.app/"><img src="./assets/projects/qr-generator.jpg" alt="QR Code Generator" width="100%"></a><br>
+      <b>QR Code Generator</b><br>
+      Custom QR codes with PNG download<br>
+      <code>React</code> <code>Vite</code><br>
       <a href="https://qr-code-generator-lilac-gamma.vercel.app/">Live</a> · <a href="https://github.com/ps-sifat/QR-code-generator">Code</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://food-panda-app-landing-page-for-web.vercel.app/"><img src="./assets/projects/food-panda.jpg" alt="Food Panda Landing Page" width="100%"></a>
-      <h3>Food Panda Landing Page</h3>
-      <p>A pixel-perfect, fully responsive landing page built by a two-person team for the Creative IT Institute web contest.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://food-panda-app-landing-page-for-web.vercel.app/">Live</a> · <a href="https://github.com/ps-sifat/Food-Panda-app-landing-page-for-Web-Contest-Creative-IT-Institute-">Code</a>
-    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://ps-sifat.github.io/valentina_psd_full_responsive_project/"><img src="./assets/projects/valentina.jpg" alt="Valentina PSD to HTML and CSS" width="100%"></a>
-      <h3>Valentina: PSD to HTML & CSS</h3>
-      <p>My first PSD-to-website conversion: a fully responsive build focused on layout accuracy.</p>
-      <p><code>HTML</code> <code>CSS</code></p>
+    <td width="33%" valign="top">
+      <a href="https://food-panda-app-landing-page-for-web.vercel.app/"><img src="./assets/projects/food-panda.jpg" alt="Food Panda Landing Page" width="100%"></a><br>
+      <b>Food Panda Landing Page</b><br>
+      Web contest entry, built by a team of two<br>
+      <code>HTML</code> <code>CSS</code> <code>JS</code><br>
+      <a href="https://food-panda-app-landing-page-for-web.vercel.app/">Live</a> · <a href="https://github.com/ps-sifat/Food-Panda-app-landing-page-for-Web-Contest-Creative-IT-Institute-">Code</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://ps-sifat.github.io/valentina_psd_full_responsive_project/"><img src="./assets/projects/valentina.jpg" alt="Valentina PSD to HTML and CSS" width="100%"></a><br>
+      <b>Valentina: PSD to HTML</b><br>
+      Fully responsive PSD conversion<br>
+      <code>HTML</code> <code>CSS</code><br>
       <a href="https://ps-sifat.github.io/valentina_psd_full_responsive_project/">Live</a> · <a href="https://github.com/ps-sifat/valentina_psd_full_responsive_project">Code</a>
     </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>More on GitHub</h3>
-      <p>See every project, from practice repos to full-stack apps.</p>
-      <a href="https://github.com/ps-sifat?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-915eff?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
+    <td width="33%" valign="middle" align="center">
+      <b>More on GitHub</b><br><br>
+      <a href="https://github.com/ps-sifat?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-915eff?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
     </td>
   </tr>
 </table>
@@ -103,11 +100,11 @@
 
 ## Education.
 
-| Degree | Institution | Year | Result |
-|---|---|---|---|
-| **B.Sc. in Computer Science & Engineering** | University of Asia Pacific | 2024 – Present | Pursuing |
-| **Diploma in Computer Technology** | Patuakhali Polytechnic Institute | 2019 – 2023 | CGPA 3.47 / 4.00 |
-| **SSC (Science)** | Govt. Swarupkathi Pilot Secondary School | 2019 | GPA 4.33 / 5.00 |
+| Degree | Institution | Year |
+|---|---|---|
+| **B.Sc. in Computer Science & Engineering** | University of Asia Pacific | 2024 – Present |
+| **Diploma in Computer Technology** | Patuakhali Polytechnic Institute | 2019 – 2023 |
+| **SSC (Science)** | Govt. Swarupkathi Pilot Secondary School | 2019 |
 
 <sub>COMPETITIVE CODING & ACHIEVEMENTS</sub>
 
