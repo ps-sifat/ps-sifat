@@ -30,9 +30,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,threejs,vite,git,github,vercel,figma,ps,ai&perline=9&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,threejs,vite,git,github,vercel,figma,ps,ai&perline=9&theme=light">
-    <img alt="HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, Three.js, Vite, Git, GitHub, Vercel, Figma, Photoshop, Illustrator" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,threejs,vite,git,github,vercel,figma,ps,ai&perline=9&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress%2Cmongodb%2Cthreejs%2Cvite%2Cgit%2Cgithub%2Cvercel%2Cfigma%2Cps%2Cai&perline=9&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress%2Cmongodb%2Cthreejs%2Cvite%2Cgit%2Cgithub%2Cvercel%2Cfigma%2Cps%2Cai&perline=9&theme=light">
+    <img alt="HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, Three.js, Vite, Git, GitHub, Vercel, Figma, Photoshop, Illustrator" src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress%2Cmongodb%2Cthreejs%2Cvite%2Cgit%2Cgithub%2Cvercel%2Cfigma%2Cps%2Cai&perline=9&theme=dark">
   </picture>
 </p>
 
