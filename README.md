@@ -1,5 +1,5 @@
 <!-- Hero: theme-aware animated banner (pure SVG + CSS, generated from the portfolio's colors) -->
-<a href="https://my-portfolios-jade-one.vercel.app/">
+<a href="https://my-portfolios-jade-one.vercel.app/" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
@@ -8,8 +8,8 @@
 </a>
 
 <p align="center">
-  <a href="https://my-portfolios-jade-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-915eff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/md-sifatul-islam-2357bd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://my-portfolios-jade-one.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-915eff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/md-sifatul-islam-2357bd/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mdsifatulislam2357@gmail.com"><img src="https://img.shields.io/badge/Email-151030?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=ps-sifat&label=Profile%20views&color=915eff&style=for-the-badge" alt="Profile views">
 </p>
@@ -100,11 +100,11 @@
 
 ## Education.
 
-| Degree | Institution | Year |
-|---|---|---|
-| **B.Sc. in Computer Science & Engineering** | University of Asia Pacific | 2024 – Present |
-| **Diploma in Computer Technology** | Patuakhali Polytechnic Institute | 2019 – 2023 |
-| **SSC (Science)** | Govt. Swarupkathi Pilot Secondary School | 2019 |
+| Degree | Institution | Year | Focus |
+|---|---|---|---|
+| **B.Sc. in Computer Science & Engineering** | University of Asia Pacific | 2024 – Present | Algorithms, Data Structures, Database Systems, Software Engineering, AI |
+| **Diploma in Computer Technology** | Patuakhali Polytechnic Institute | 2019 – 2023 | Hardware, Operating Systems, Programming, Networks, Databases, Web Technologies |
+| **SSC (Science)** | Govt. Swarupkathi Pilot Secondary School | 2019 | Mathematics, Physics, Chemistry, ICT |
 
 <sub>COMPETITIVE CODING & ACHIEVEMENTS</sub>
 
